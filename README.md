@@ -2,7 +2,7 @@
 
 ---
 
-# Wav2Lip 和人像修复 Gradio 演示代码文档
+# Wav2Lip_hq_fix Gradio 演示代码文档
 
 ## 概述
 
