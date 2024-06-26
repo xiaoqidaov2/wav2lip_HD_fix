@@ -1,0 +1,11 @@
+librosa==0.9.1
+numpy==1.22
+opencv-python==4.9.0.80
+opencv-contrib-python==4.9.0.80
+torch==1.10.0
+torchvision
+resampy==0.4.3
+tqdm==4.61.2
+numba==0.58.1
+scikit-image==0.21.0
+batch-face==1.4.0

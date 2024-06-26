@@ -1,0 +1,14 @@
+--2024-06-05 06:24:01--  https://iiitaphyd-my.sharepoint.com/personal/radrabha_m_research_iiit_ac_in/_layouts/15/download.aspx?share=EdjI7bZlgApMqsVoEUUXpLsBxqXbn5z8VTmoxp55YNDcIA
+Resolving iiitaphyd-my.sharepoint.com (iiitaphyd-my.sharepoint.com)... 28.0.0.47
+Connecting to iiitaphyd-my.sharepoint.com (iiitaphyd-my.sharepoint.com)|28.0.0.47|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 435801865 (416M) [application/octet-stream]
+Saving to: ‘checkpoints/wav2lip_gan.pth’
+
+checkpoints/wav2lip  18%[==>                 ]  76.75M   258KB/s    in 3m 37s  
+
+2024-06-05 06:42:39 (362 KB/s) - Read error at byte 80474112/435801865 (Input/output error). Retrying.
+
+--2024-06-05 06:42:40--  (try: 2)  https://iiitaphyd-my.sharepoint.com/personal/radrabha_m_research_iiit_ac_in/_layouts/15/download.aspx?share=EdjI7bZlgApMqsVoEUUXpLsBxqXbn5z8VTmoxp55YNDcIA
+Connecting to iiitaphyd-my.sharepoint.com (iiitaphyd-my.sharepoint.com)|28.0.0.47|:443... connected.
+Unable to establish SSL connection.
